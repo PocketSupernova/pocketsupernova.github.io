@@ -1,0 +1,50 @@
+section.main {
+  background-color: #07BAC5;
+
+}
+
+.container {
+  padding-top: 83px;
+  color: #FFF;
+  font-family: "Helvetica";
+}
+
+.preview {
+  opacity: 0;
+}
+
+p {
+  font-size: 16px;
+}
+
+p.title {
+  line-height: 58px;
+  font-size: 34px;
+  padding: 40px 0;
+}
+
+a.signup {
+  color: #FFF;
+  padding: 30px 60px;
+  display: inline-block;
+  font-size: 24px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #f0634d;
+  text-decoration: none;
+}
+
+.links {
+  padding: 50px 0;
+  padding-left: 155px;
+}
+
+.links a {
+  margin-left: 10px;
+}
+
+footer {
+  background-color: #000;
+  height: 118px;
+  margin-top: -60px;
+}
